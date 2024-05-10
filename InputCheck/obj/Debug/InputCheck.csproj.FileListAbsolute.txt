@@ -1,0 +1,36 @@
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+D:\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\bin\Debug\InputCheck.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\InputCheck\obj\Debug\InputCheck.pdb

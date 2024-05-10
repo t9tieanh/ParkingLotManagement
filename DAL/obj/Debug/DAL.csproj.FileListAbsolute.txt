@@ -1,0 +1,108 @@
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+D:\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+D:\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+D:\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+D:\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+D:\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+D:\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DAL.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DAL\obj\Debug\DAL.pdb

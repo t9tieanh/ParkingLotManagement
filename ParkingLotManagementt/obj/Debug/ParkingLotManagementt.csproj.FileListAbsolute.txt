@@ -1,0 +1,1467 @@
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Controls.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Genetic.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Imaging.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.MachineLearning.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Math.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Neuro.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Video.DirectShow.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Video.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Video.VFW.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\AForge.Vision.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkArea.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Service.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Service.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Service.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Service.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.VehicleAndContract.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Learn\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.VehicleAndContract.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Service.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\qh269PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\CuoiKiWin\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniExcel.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniWord.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmManagerConductFromAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Manager.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePriceParking.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniExcel.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniWord.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePriceParking.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmManagerConductFromAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Manager.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+D:\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniExcel.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniWord.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePriceParking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmManagerConductFromAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Manager.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe.config
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.exe
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ParkingLotManagementt.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniExcel.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniWord.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\BUL.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DAL.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\InputCheck.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Emgu.CV.World.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\OpenTK.GLControl.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\RestSharp.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Text.Json.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ZedGraph.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zxing.presentation.xml
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePassword.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePriceParking.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.CreateContractBorrow.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmContractDetail.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateNewAccountCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.FrmDentailParking.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCofirmationContract.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmLogin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMain.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorker.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmMainWorkerPaking.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmManagerConductFromAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmPayMentForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmProfileWorker.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmScheduler.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmService.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmCreateContractCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmServiceDetail.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewContractParkArea.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewDetailParkAreaForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmViewVehicleEntryAndExitHistory.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestLicense.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.TestSchedule.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmVehicleAndContract.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.frmComfirmEmail.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Properties.Resources.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Resource1.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.ContractFromTimeLine.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailPayMentForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractDetailFromWorker.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ContractFromVehicle.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_CustomerCardForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Manager.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_MessageForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkAreaForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ParkingForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdminView.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_ServiceRentCar.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Vehicle.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentAvailableForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForRentForCustomer.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_VehicleForViewContractFrm.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Worker.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_WorkerForAdmin.resources
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingL.355DC393.Up2Date
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.exe
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniExcel.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\MiniWord.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmChangePriceParking.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmManagerConductFromAdmin.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.Forms.frmStaticContract.resources
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\ParkingLotManagementt\obj\Debug\ParkingLotManagementt.UC_Controls.UC_Manager.resources

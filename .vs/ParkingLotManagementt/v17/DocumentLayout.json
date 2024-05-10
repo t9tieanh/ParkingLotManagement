@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|c:\\users\\lenovo\\downloads\\linhtalinhtinh\\cuoikiwin\\cuoikiwin\\parkinglotmanagementt\\parkinglotmanagementt\\forms\\frmviewvehicleentryandexithistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|solutionrelative:parkinglotmanagementt\\forms\\frmviewvehicleentryandexithistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A5CBA9-772D-4AB7-BE1A-C848754CDB82}|DAL\\DAL.csproj|c:\\users\\lenovo\\downloads\\linhtalinhtinh\\cuoikiwin\\cuoikiwin\\parkinglotmanagementt\\dal\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A5CBA9-772D-4AB7-BE1A-C848754CDB82}|DAL\\DAL.csproj|solutionrelative:dal\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\parkinglotmanagementt\\forms\\frmmainworkerpaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|solutionrelative:parkinglotmanagementt\\forms\\frmmainworkerpaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\parkinglotmanagementt\\forms\\frmmainworkerpaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|solutionrelative:parkinglotmanagementt\\forms\\frmmainworkerpaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\parkinglotmanagementt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757D42E7-172E-4F74-A479-2AF1918A18CB}|ParkingLotManagementt\\ParkingLotManagementt.csproj|solutionrelative:parkinglotmanagementt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1330,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainWorkerPaking.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "RelativeDocumentMoniker": "ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "RelativeToolTip": "ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "ViewState": "AQIAAGsBAAAAAAAAAAAQwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:18:38.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmViewVehicleEntryAndExitHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmViewVehicleEntryAndExitHistory.cs",
+              "RelativeDocumentMoniker": "ParkingLotManagementt\\Forms\\frmViewVehicleEntryAndExitHistory.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmViewVehicleEntryAndExitHistory.cs [Design]",
+              "RelativeToolTip": "ParkingLotManagementt\\Forms\\frmViewVehicleEntryAndExitHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:42:53.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\DAL\\MyDB.cs",
+              "RelativeDocumentMoniker": "DAL\\MyDB.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\DAL\\MyDB.cs",
+              "RelativeToolTip": "DAL\\MyDB.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwBAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:57:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingLotManagementt\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Program.cs",
+              "RelativeToolTip": "ParkingLotManagementt\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwEQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:21:29.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMainWorkerPaking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "RelativeDocumentMoniker": "ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\LinhTaLinhTinh\\CuoiKiWin\\CuoiKiWin\\ParkingLotManagementt\\ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs [Design]",
+              "RelativeToolTip": "ParkingLotManagementt\\Forms\\frmMainWorkerPaking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:11:41.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1306,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

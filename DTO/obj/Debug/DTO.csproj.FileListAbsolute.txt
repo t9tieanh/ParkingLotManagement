@@ -1,0 +1,60 @@
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+D:\22110403_HK4\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Learn\Lập trình trên Win\ParkingManagement\ParkingManagement\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Learn\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+D:\Down Load\CuoiKiWin\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+D:\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+D:\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+D:\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+D:\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\LinhTaLinhTinh\CuoiKiWin (1)\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.dll
+C:\Users\PC\Downloads\CuoiKiWin\ParkingLotManagementt\DTO\obj\Debug\DTO.pdb

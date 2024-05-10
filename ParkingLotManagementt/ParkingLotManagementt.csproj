@@ -1,0 +1,872 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EmguCV.3.1.0.1\build\EmguCV.props" Condition="Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{757D42E7-172E-4F74-A479-2AF1918A18CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ParkingLotManagementt</RootNamespace>
+    <AssemblyName>ParkingLotManagementt</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Genetic">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Genetic.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.MachineLearning">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.MachineLearning.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Neuro">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Neuro.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.VFW">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Video.VFW.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Vision">
+      <HintPath>..\..\..\WindowsProgramming\DoAnCuoiKy\NhanDangBienSo\prjNhanDang\bin\Debug\AForge.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.0.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.0.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.0.2\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.1.0.1\lib\net30\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI.GL, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.1.0.1\lib\net30\Emgu.CV.UI.GL.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World, Version=3.1.0.2282, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.1.0.1\lib\net30\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniExcel, Version=1.31.3.0, Culture=neutral, PublicKeyToken=e7310002a53eac39, processorArchitecture=MSIL">
+      <HintPath>..\packages\MiniExcel.1.31.3\lib\net45\MiniExcel.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniWord, Version=0.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MiniWord.0.8.0\lib\net45\MiniWord.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.1.1.2225.0\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.GLControl.1.1.2225.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.5\lib\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmChangePriceParking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChangePriceParking.Designer.cs">
+      <DependentUpon>frmChangePriceParking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCreateContractBorrow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCreateContractBorrow.Designer.cs">
+      <DependentUpon>frmCreateContractBorrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContractCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContractCustomer.Designer.cs">
+      <DependentUpon>frmContractCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContractDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContractDetail.Designer.cs">
+      <DependentUpon>frmContractDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCreateNewAccountCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCreateNewAccountCustomer.Designer.cs">
+      <DependentUpon>frmCreateNewAccountCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDentailParking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmDentailParking.Designer.cs">
+      <DependentUpon>FrmDentailParking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMainCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMainCustomer.Designer.cs">
+      <DependentUpon>frmMainCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCofirmationContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCofirmationContract.Designer.cs">
+      <DependentUpon>frmCofirmationContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMainWorkerPaking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMainWorkerPaking.Designer.cs">
+      <DependentUpon>frmMainWorkerPaking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmManagerConductFromAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmManagerConductFromAdmin.Designer.cs">
+      <DependentUpon>frmManagerConductFromAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPayMentForCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPayMentForCustomer.Designer.cs">
+      <DependentUpon>frmPayMentForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProfileCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProfileCustomer.Designer.cs">
+      <DependentUpon>frmProfileCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProfileWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProfileWorker.Designer.cs">
+      <DependentUpon>frmProfileWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmScheduler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmScheduler.Designer.cs">
+      <DependentUpon>frmScheduler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmService.Designer.cs">
+      <DependentUpon>frmService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCreateContractCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCreateContractCustomer.Designer.cs">
+      <DependentUpon>frmCreateContractCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmServiceDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmServiceDetail.Designer.cs">
+      <DependentUpon>frmServiceDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMainWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMainWorker.Designer.cs">
+      <DependentUpon>frmMainWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStaticContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStaticContract.Designer.cs">
+      <DependentUpon>frmStaticContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmViewContractParkArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewContractParkArea.Designer.cs">
+      <DependentUpon>frmViewContractParkArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmViewDetailParkAreaForAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewDetailParkAreaForAdmin.Designer.cs">
+      <DependentUpon>frmViewDetailParkAreaForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmViewVehicleEntryAndExitHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewVehicleEntryAndExitHistory.Designer.cs">
+      <DependentUpon>frmViewVehicleEntryAndExitHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TestLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TestLicense.Designer.cs">
+      <DependentUpon>TestLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TestSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TestSchedule.Designer.cs">
+      <DependentUpon>TestSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVehicleAndContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVehicleAndContract.Designer.cs">
+      <DependentUpon>frmVehicleAndContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmComfirmEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmComfirmEmail.Designer.cs">
+      <DependentUpon>frmComfirmEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\API_Request.cs" />
+    <Compile Include="Setup\Bank.cs" />
+    <Compile Include="Setup\ChangeControl.cs" />
+    <Compile Include="Setup\clsImagePlate.cs" />
+    <Compile Include="Setup\clsLisencePlate.cs" />
+    <Compile Include="Setup\clsNetwork.cs" />
+    <Compile Include="UC_Controls\ContractFromTimeLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\ContractFromTimeLine.Designer.cs">
+      <DependentUpon>ContractFromTimeLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailPayMentForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailPayMentForCustomer.Designer.cs">
+      <DependentUpon>UC_ContractDetailPayMentForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractForAdmin.Designer.cs">
+      <DependentUpon>UC_ContractForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailFromCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailFromCustomer.Designer.cs">
+      <DependentUpon>UC_ContractDetailFromCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailFromWorker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractDetailFromWorker.Designer.cs">
+      <DependentUpon>UC_ContractDetailFromWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractForCustomer.Designer.cs">
+      <DependentUpon>UC_ContractForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractFromVehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ContractFromVehicle.Designer.cs">
+      <DependentUpon>UC_ContractFromVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_CustomerCardForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_CustomerCardForAdmin.Designer.cs">
+      <DependentUpon>UC_CustomerCardForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Manager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Manager.Designer.cs">
+      <DependentUpon>UC_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_MessageForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_MessageForAdmin.Designer.cs">
+      <DependentUpon>UC_MessageForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkAreaForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkAreaForAdmin.Designer.cs">
+      <DependentUpon>UC_ParkAreaForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkAreaForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkAreaForCustomer.Designer.cs">
+      <DependentUpon>UC_ParkAreaForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkingForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ParkingForAdmin.Designer.cs">
+      <DependentUpon>UC_ParkingForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForAdminView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForAdminView.Designer.cs">
+      <DependentUpon>UC_ServiceForAdminView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForCustomer.Designer.cs">
+      <DependentUpon>UC_ServiceForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceForAdmin.Designer.cs">
+      <DependentUpon>UC_ServiceForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceRentCar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_ServiceRentCar.Designer.cs">
+      <DependentUpon>UC_ServiceRentCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Vehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Vehicle.Designer.cs">
+      <DependentUpon>UC_Vehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForRentAvailableForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForRentAvailableForCustomer.Designer.cs">
+      <DependentUpon>UC_VehicleForRentAvailableForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForViewContractFrm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForViewContractFrm.Designer.cs">
+      <DependentUpon>UC_VehicleForViewContractFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Worker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_Worker.Designer.cs">
+      <DependentUpon>UC_Worker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForRentForCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_VehicleForRentForCustomer.Designer.cs">
+      <DependentUpon>UC_VehicleForRentForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Controls\UC_WorkerForAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Controls\UC_WorkerForAdmin.Designer.cs">
+      <DependentUpon>UC_WorkerForAdmin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChangePriceParking.resx">
+      <DependentUpon>frmChangePriceParking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCreateContractBorrow.resx">
+      <DependentUpon>frmCreateContractBorrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContractCustomer.resx">
+      <DependentUpon>frmContractCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContractDetail.resx">
+      <DependentUpon>frmContractDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCreateNewAccountCustomer.resx">
+      <DependentUpon>frmCreateNewAccountCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmDentailParking.resx">
+      <DependentUpon>FrmDentailParking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMainCustomer.resx">
+      <DependentUpon>frmMainCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCofirmationContract.resx">
+      <DependentUpon>frmCofirmationContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMainWorker.resx">
+      <DependentUpon>frmMainWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMainWorkerPaking.resx">
+      <DependentUpon>frmMainWorkerPaking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmManagerConductFromAdmin.resx">
+      <DependentUpon>frmManagerConductFromAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPayMentForCustomer.resx">
+      <DependentUpon>frmPayMentForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProfileCustomer.resx">
+      <DependentUpon>frmProfileCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProfileWorker.resx">
+      <DependentUpon>frmProfileWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmScheduler.resx">
+      <DependentUpon>frmScheduler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmService.resx">
+      <DependentUpon>frmService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCreateContractCustomer.resx">
+      <DependentUpon>frmCreateContractCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmServiceDetail.resx">
+      <DependentUpon>frmServiceDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStaticContract.resx">
+      <DependentUpon>frmStaticContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewContractParkArea.resx">
+      <DependentUpon>frmViewContractParkArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewDetailParkAreaForAdmin.resx">
+      <DependentUpon>frmViewDetailParkAreaForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewVehicleEntryAndExitHistory.resx">
+      <DependentUpon>frmViewVehicleEntryAndExitHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TestLicense.resx">
+      <DependentUpon>TestLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TestSchedule.resx">
+      <DependentUpon>TestSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVehicleAndContract.resx">
+      <DependentUpon>frmVehicleAndContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmComfirmEmail.resx">
+      <DependentUpon>frmComfirmEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\ContractFromTimeLine.resx">
+      <DependentUpon>ContractFromTimeLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractDetailPayMentForCustomer.resx">
+      <DependentUpon>UC_ContractDetailPayMentForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractForAdmin.resx">
+      <DependentUpon>UC_ContractForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractDetailFromCustomer.resx">
+      <DependentUpon>UC_ContractDetailFromCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractDetailFromWorker.resx">
+      <DependentUpon>UC_ContractDetailFromWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractForCustomer.resx">
+      <DependentUpon>UC_ContractForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ContractFromVehicle.resx">
+      <DependentUpon>UC_ContractFromVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_CustomerCardForAdmin.resx">
+      <DependentUpon>UC_CustomerCardForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_Manager.resx">
+      <DependentUpon>UC_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_MessageForAdmin.resx">
+      <DependentUpon>UC_MessageForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ParkAreaForAdmin.resx">
+      <DependentUpon>UC_ParkAreaForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ParkAreaForCustomer.resx">
+      <DependentUpon>UC_ParkAreaForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ParkingForAdmin.resx">
+      <DependentUpon>UC_ParkingForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ServiceForAdminView.resx">
+      <DependentUpon>UC_ServiceForAdminView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ServiceForCustomer.resx">
+      <DependentUpon>UC_ServiceForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ServiceForAdmin.resx">
+      <DependentUpon>UC_ServiceForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_ServiceRentCar.resx">
+      <DependentUpon>UC_ServiceRentCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_Vehicle.resx">
+      <DependentUpon>UC_Vehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_VehicleForRentAvailableForCustomer.resx">
+      <DependentUpon>UC_VehicleForRentAvailableForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_VehicleForRentForCustomer.resx">
+      <DependentUpon>UC_VehicleForRentForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_VehicleForViewContractFrm.resx">
+      <DependentUpon>UC_VehicleForViewContractFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_Worker.resx">
+      <DependentUpon>UC_Worker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Controls\UC_WorkerForAdmin.resx">
+      <DependentUpon>UC_WorkerForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUL\BUL.csproj">
+      <Project>{071d7085-9d32-4c85-80eb-5324abf92b00}</Project>
+      <Name>BUL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{85A5CBA9-772D-4AB7-BE1A-C848754CDB82}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{96da78c4-4f67-4ace-aa2c-67f41f712af2}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InputCheck\InputCheck.csproj">
+      <Project>{0af6aa0a-891f-4af4-bace-eeabd4342d55}</Project>
+      <Name>InputCheck</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bicycle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motorcycle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_customer_profile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_preview_whitye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_des2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_content.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_full_name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_dateReceipt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_deadline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_id_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_name_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_monney_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_car_id.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_blue_car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_typeCar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_blue_name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_address.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_area.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_tag_name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_pas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_customer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_nameCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_addressCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_userCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_passCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_phoneCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_idCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_saveCustomerr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_imgCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_recorrd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_stop_record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_dashboardworker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_morning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_afternoon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_evening.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_night.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_afternoon_100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_morning_100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_schedule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ogs-parking-lots-221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1695288013_untitled-design-min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-588348500-1024x1024.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.1.0.1\build\EmguCV.props'))" />
+    <Error Condition="!Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.1.0.1\build\EmguCV.targets'))" />
+  </Target>
+  <Import Project="..\packages\EmguCV.3.1.0.1\build\EmguCV.targets" Condition="Exists('..\packages\EmguCV.3.1.0.1\build\EmguCV.targets')" />
+</Project>
